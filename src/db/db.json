@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "name": "Dewey Larkin PhD",
+    "phone": "359-269-9318 x941",
+    "email": "Jakob.Gerhold@yahoo.com",
+    "job": "Internal Infrastructure Director"
+  },
+  {
+    "name": "Marta Predovic PhD",
+    "phone": "1-917-257-4098 x890",
+    "email": "Avery_Boehm39@hotmail.com",
+    "job": "Customer Markets Executive"
+  },
+  {
+    "name": "Ben Marks",
+    "phone": "(250) 517-2085 x2703",
+    "email": "Jane7@gmail.com",
+    "job": "Human Paradigm Specialist"
+  },
+  {
+    "name": "Robyn Volkman",
+    "phone": "868-425-2128 x4480",
+    "email": "Harley30@gmail.com",
+    "job": "Regional Functionality Engineer"
+  },
+  {
+    "name": "Vicky Schulist DVM",
+    "phone": "257-475-5535 x169",
+    "email": "Eriberto.Trantow74@yahoo.com",
+    "job": "Forward Accountability Technician"
+  },
+  {
+    "name": "Casey MacGyver",
+    "phone": "487-946-6271 x789",
+    "email": "Tre_Barrows@yahoo.com",
+    "job": "Product Program Consultant"
+  },
+  {
+    "name": "Joel Murphy",
+    "phone": "(670) 374-0565",
+    "email": "Chanelle.Feeney@hotmail.com",
+    "job": "Chief Applications Associate"
+  },
+  {
+    "name": "Darrell Will",
+    "phone": "838-966-5601 x6106",
+    "email": "Meredith.Herman@yahoo.com",
+    "job": "Product Web Designer"
+  }
+]
