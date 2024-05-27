@@ -13,7 +13,7 @@ const generateContacts = async (number) => {
             allContacts.push(newContacts);
 
         }
-        await fs.writeFile(PATH_DB,JSON.stringify(allContacts),null,2)
+        await fs.writeFile(PATH_DB,JSON.stringify(allContacts,null,2))
 
     } catch (error) {
 console.error(error.message);
